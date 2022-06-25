@@ -1,4 +1,4 @@
-# Deployment of Image Classification Model to AWS Lambda
+# Deployment of Image Classification Model to API endpoint using Docker, AWS Lambda, AWS Gateway
 
 - Converting model to using tflite instead of tensorflow to reduce package size
 
